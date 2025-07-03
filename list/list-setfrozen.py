@@ -1,0 +1,9 @@
+s={"homo","hetero",93,4.34,True}
+d=frozenset(s)
+l=[s,4,76,d]
+print(s)
+print(type(s))
+print(d)
+print(type(d))
+print(l)
+print(type(l))
